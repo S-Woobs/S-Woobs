@@ -39,3 +39,6 @@ Actualmente estoy ampliando mis estudios como tecnólogo en análisis y desarrol
 ## 📫 contacto
 
 📧 **[johanns.gomeze@gmail.com](mailto:johanns.gomeze@gmail.com)**  
+
+
+> ### GOD IS MY FATHER ✝️🛐
