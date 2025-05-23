@@ -1,17 +1,16 @@
 # Hola, Mi nombre es Johann Gómez 👋
-### técnico en programación con un enfoque fuerte en el desarrollo web. 
+### técnico en programación con un enfoque fuerte en el desarrollo web
 
 Soy un apasionado por el mundo del desarrollo de software.
+Actualmente estoy ampliando mis estudios como tecnólogo en análisis y desarrollo de software, Tengo fuertes habilidades en el desarrollo web y un objetivo claro: convertirme en **desarrollador full stack especializado en AI**.
 
-Actualmente estoy ampliando mis estudios como tecnólogo en análisis y desarrollo de software, con fuertes habilidades en el desarrollo web y un objetivo claro: convertirme en **desarrollador full stack especializado en AI**.
 
----
-
-## Tecnologias:
+## Tecnologias que uso y estoy fortaleciendo:
 
 ### 👨‍💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧠 Backend y lógica
@@ -26,14 +25,16 @@ Actualmente estoy ampliando mis estudios como tecnólogo en análisis y desarrol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+> ### Algunas tecnologías las domino mejor que otras, pero me esfuerzo por mejorar cada día.
 
-## 🌱 Actualmente aprendiendo
 
-- JavaScript y su integración con interfaces web
-- Desarrollo completo con Flask
+## 🌱 Actualmente estoy aprendiendo
 
----
+🔹 **Flask:** estoy construyendo proyectos reales con esta tecnología  
+🔹 **JavaScript:** tengo bases y estoy integrándolo más en mis proyectos  
+🔹 **Bootstrap:** lo uso ocasionalmente, prefiero CSS puro  
+🔹 **Git/GitHub:** en proceso de dominarlos a nivel profesional
+
 
 ## 📫 contacto
 
